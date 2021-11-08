@@ -1,0 +1,22 @@
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.css";
+
+#container {
+  color: #FFFFFF;
+  position: absolute;
+  left: 220px;
+  top: 180px;
+  width: 1140px;
+}
+
+#table-container {
+  width: 100%;
+}
+#table {
+  color: #FFFFFF;
+}
+
+#table-page {
+  color: #007bff;
+  cursor: pointer;
+}
